@@ -24,12 +24,12 @@ a:hover {
     
     .img-box {
         position: absolute;
-        bottom: 10%;
+        bottom: 40px;
         left: 100%;
     }
     
     img {
-        width: 530px;
+        width: 450px;
     }
     
     .text {
