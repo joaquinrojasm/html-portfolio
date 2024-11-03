@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.meme {
+    margin-top: 50px;
+    color: white;
+}
+
+#messi {
+    height: 800px;
+    width: 800px;
+    border: 5px solid white;
+}
